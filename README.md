@@ -18,7 +18,7 @@ The repository is maintained as [CSV files](https://github.com/mdcollab/covidcli
 * Motivations, details, and next steps are available in this [discussion](https://twitter.com/erenbali/status/1261083321158770689?s=20) from May 2020.
 * Data preparation and summarization functions are available in these [two notebooks](https://github.com/mdcollab/covidclinicaldata/tree/master/notebooks/). For example, below is a visualization of the fill rate for all variables within the data repository.
 
-![Fill rates](images/06-16_fill_rate.png) 
+<center><img src="charts/06-16_fill_rate.png" width="80%"></center>
 
 ## Data Contributors and Supporters
 
@@ -37,7 +37,7 @@ The repository is maintained as [CSV files](https://github.com/mdcollab/covidcli
   - Data Science Team: [Nosheen Moosvi](https://www.linkedin.com/in/nosheen-moosvi-82a31883/), [Rebekkah Ismakov](https://www.linkedin.com/in/rismakov/), [Pardis Noorzad](https://djpardis.com)
   - Clinical Team: [Greg Burrell](https://www.linkedin.com/in/gregburrell/),  [Haritha Atluri](https://www.linkedin.com/in/harithaatluri/), [Roger Wu](https://www.linkedin.com/in/roger-wu-md-mba-facep-b91844a/), [Caesar Djavaherian](https://www.linkedin.com/in/caesar-djavaherian/), [Sujal Mandavia](https://www.linkedin.com/in/sujal-mandavia-03664414/)
     
-| ![CH Logo](contributors/logos/carbon_health.png) | <img src="contributors/samples/carbon_health_dictionary.png" width="60%"> |
+| <img src="contributors/logos/carbon_health.png" width="60%"> | <img src="contributors/samples/carbon_health_dictionary.png" width="90%"> |
 |:--:| :--: |
 | Carbon Health Logo | <a href="https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing" target="_blank">Data Dictionary</a> |
 
@@ -57,7 +57,7 @@ The repository is maintained as [CSV files](https://github.com/mdcollab/covidcli
   - Product Design: [Alessandro Sabatelli](https://www.linkedin.com/in/s4l4x/)
   - Clinical: [Rajni Natesan](https://www.linkedin.com/in/rajninatesan/), [Vivian Liu](https://www.linkedin.com/in/viviandliu/)
 
-| <img src="contributors/logos/braid_health.png" width="60%"> |  <img src="contributors/samples/braid_health_c_xray.png" width="60%"> |
+| <img src="contributors/logos/braid_health.png" width="60%"> |  <img src="contributors/samples/braid_health_c_xray.png" width="80%"> |
 |:--:| :--:| 
 | Braid Health Logo | <a href="https://braid.health/viewer/study/6905c8c988d201379dd932fa5ba650125d89bc5bddfa6a4df9f4338cbd2326f2?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0&lab=sars"  target="_blank">Sample Chest X-ray</a> |
 
